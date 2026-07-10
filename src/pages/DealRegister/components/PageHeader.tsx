@@ -1,5 +1,3 @@
-import * as React from "react";
-
 export function PageHeader() {
   const links = [
     "마이페이지",

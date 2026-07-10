@@ -1,5 +1,3 @@
-import * as React from "react";
-
 interface MyComponentProps {
   variant?: 1 | 2 | 3;
 }
